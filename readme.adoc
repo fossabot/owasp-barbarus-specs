@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnebrass%2Fowasp-barbarus-specs.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnebrass%2Fowasp-barbarus-specs?ref=badge_shield)
+
 = OWASP Barbarus
 Nebrass Lamouchi, OWASP Project Leader & NetBeans Dream Team <lnibrass@gmail.com>
 
@@ -186,3 +188,7 @@ We can add also the functionnality of notifying the smartphone application about
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnebrass%2Fowasp-barbarus-specs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnebrass%2Fowasp-barbarus-specs?ref=badge_large)
